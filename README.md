@@ -1,6 +1,6 @@
 # Project-Templates
 - [Blank Generic Template](https://github.com/paulAlexSerban/blank-generic-template)
-- [ESJ - Project Template]()
+- [EJS - Project Template](https://github.com/paulAlexSerban/ejs-project-template)
 - [LAMP Project Template]()
 - [Wordpress Project Template]()
 - [NMP Proejct Template]()
