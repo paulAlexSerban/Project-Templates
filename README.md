@@ -1,3 +1,10 @@
 # Project-Templates
 - [Blank Generic Template](https://github.com/paulAlexSerban/blank-generic-template)
+- [ESJ - Project Template]()
+- [LAMP Project Template]()
+- [Wordpress Project Template]()
+- [NMP Proejct Template]()
+- [MERN Project Template]()
+- [MEAN Proejct Template]()
+- [MEVN Project Template]()
 - [Style Guide Template](https://github.com/paulAlexSerban/style-guide-template)
