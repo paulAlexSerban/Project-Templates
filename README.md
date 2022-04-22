@@ -1,5 +1,6 @@
 # Project-Templates
 - [Blank Generic Template](https://github.com/paulAlexSerban/blank-generic-template)
+- [ExpressJS-Template (NodeJS v14)](https://github.com/paulAlexSerban/template-nodejs-14)
 - [EJS - Project Template](https://github.com/paulAlexSerban/ejs-project-template)
 - [LAMP Project Template]()
 - [Wordpress Project Template]()
