@@ -1,7 +1,8 @@
 # Project-Templates
-- [Nginx & Httpd (Static Web Server)](https://github.com/paulAlexSerban/template-nginx-httpd)
-- [ExpressJS Template (NodeJS v14)](https://github.com/paulAlexSerban/template-nodejs-14)
-- [EJS - Project Template](https://github.com/paulAlexSerban/ejs-template)
+- [Nginx - Httpd (Static Web Server)](https://github.com/paulAlexSerban/template-nginx-httpd)
+- [ExpressJS (NodeJS v14)](https://github.com/paulAlexSerban/template-nodejs-14)
+- [ExpressJS - Redis (NodeJS v14)](https://github.com/paulAlexSerban/template-nodejs-redis)
+- [ExpressJS - EJS (NodeJS v14)](https://github.com/paulAlexSerban/ejs-template)
 - [LAMP Project Template]()
 - [Wordpress Project Template]()
 - [NMP Proejct Template]()
