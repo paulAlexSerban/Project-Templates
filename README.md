@@ -1,7 +1,10 @@
 # Project-Templates
 - [Nginx - Httpd (Static Web Server)](https://github.com/paulAlexSerban/template-nginx-httpd)
 
-| test |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 - [ExpressJS (NodeJS v14)](https://github.com/paulAlexSerban/template-nodejs-14)
 - [ExpressJS - Redis (NodeJS v14)](https://github.com/paulAlexSerban/template-nodejs-redis)
