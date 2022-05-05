@@ -7,9 +7,9 @@
 - [Style Guide Template](https://github.com/paulAlexSerban/style-guide-template)
 
 ## To Do's:
-- [LAMP Project Template]()
-- [Wordpress Project Template]()
-- [NMP Proejct Template]()
-- [MERN Project Template]()
-- [MEAN Proejct Template]()
-- [MEVN Project Template]()
+- LAMP Project Template
+- Wordpress Project Template
+- NMP Proejct Template
+- MERN Project Template
+- MEAN Proejct Template
+- MEVN Project Template
