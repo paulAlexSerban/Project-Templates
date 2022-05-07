@@ -1,6 +1,6 @@
 # Project-Templates
 
-- [Reverse Proxy Web Server (Nginx, Httpd)](https://github.com/paulAlexSerban/template-nginx-httpd)
+- [Reverse Proxy Web Server (Nginx, Httpd)](https://github.com/paulAlexSerban/tpl--nginx-proxy--httpd-server)
 - [ExpressJS (NodeJS v14)](https://github.com/paulAlexSerban/template-nodejs-14)
 - [ExpressJS - Redis (NodeJS v14)](https://github.com/paulAlexSerban/template-nodejs-redis)
 - [ExpressJS - EJS (NodeJS v14)](https://github.com/paulAlexSerban/ejs-template)
