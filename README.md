@@ -1,5 +1,8 @@
-# Project-Templates
+# Project Templates
 
+- [Template - Basic Project](https://github.com/paulAlexSerban/tpl--basic-prj)
+
+<!--
 - [Reverse Proxy Web Server (Nginx, Httpd)](https://github.com/paulAlexSerban/tpl--nginx-proxy--httpd-server)
 - [ExpressJS (NodeJS v14)](https://github.com/paulAlexSerban/template-nodejs-14)
 - [ExpressJS - Redis (NodeJS v14)](https://github.com/paulAlexSerban/template-nodejs-redis)
