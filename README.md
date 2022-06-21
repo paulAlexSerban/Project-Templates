@@ -1,6 +1,6 @@
 # Project Frameworks
 
-- [Project Boilerplate, Archetype n' Framework](https://github.com/paulAlexSerban/project--archetype-n-framework)
+- [Project Boilerplate, Archetype n' Framework](https://github.com/paulAlexSerban/project-boilerplate-archetype-n-framework)
 
 ## Templates
 
