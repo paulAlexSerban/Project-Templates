@@ -1,8 +1,9 @@
-# Project templates
+# Project Frameworks
 
-- [Template - Basic Project](https://github.com/paulAlexSerban/tpl--basic-prj)
+- [Basic Framework Archetype](https://github.com/paulAlexSerban/basic-framework-archetype)
 
-## Subproject templates
+## Templates
+
 - [Reverse Proxy Web Server (Nginx, Httpd)](https://github.com/paulAlexSerban/tpl--nginx-proxy--httpd-server)
 
 <!--
