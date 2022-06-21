@@ -1,6 +1,6 @@
 # Project Frameworks
 
-- [Basic Framework Archetype](https://github.com/paulAlexSerban/basic-framework-archetype)
+- [Project - Archetype & Framework](https://github.com/paulAlexSerban/project--archetype-n-framework)
 
 ## Templates
 
