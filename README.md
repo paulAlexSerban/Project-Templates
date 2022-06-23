@@ -3,8 +3,9 @@
 - [Project Boilerplate, Archetype n' Framework](https://github.com/paulAlexSerban/project-boilerplate-archetype-n-framework)
 
 ## Templates
-
-- [Reverse Proxy Web Server (Nginx, Httpd)](https://github.com/paulAlexSerban/tpl--nginx-proxy--httpd-server)
+- Reverse Proxy - Web Server 
+  - [Traefik proxy & Nginx server](https://github.com/paulAlexSerban/pbanf-tpl--traefik-proxy--nginx-server)
+  - [Nginx proxy & Httpd server)](https://github.com/paulAlexSerban/tpl--nginx-proxy--httpd-server)
 
 <!--
 - [ExpressJS (NodeJS v14)](https://github.com/paulAlexSerban/template-nodejs-14)
