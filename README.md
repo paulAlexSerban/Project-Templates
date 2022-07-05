@@ -2,6 +2,9 @@
 
 - [Portfolio Template](https://github.com/paulAlexSerban/project-boilerplate-archetype-n-framework)
 
+## Server Templates
+- [Nginx Server](https://github.com/paulAlexSerban/tpl--nginx-server)
+
 ## Project Templates
 - Reverse Proxy - Web Server 
   - [Traefik proxy & Nginx server](https://github.com/paulAlexSerban/pbanf-tpl--traefik-proxy--nginx-server)
