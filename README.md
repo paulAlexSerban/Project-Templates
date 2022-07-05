@@ -1,8 +1,8 @@
-# Project Frameworks
+# Templates
 
-- [Project Boilerplate, Archetype n' Framework](https://github.com/paulAlexSerban/project-boilerplate-archetype-n-framework)
+- [Portfolio Template](https://github.com/paulAlexSerban/project-boilerplate-archetype-n-framework)
 
-## Templates
+## Project Templates
 - Reverse Proxy - Web Server 
   - [Traefik proxy & Nginx server](https://github.com/paulAlexSerban/pbanf-tpl--traefik-proxy--nginx-server)
   - [Nginx proxy & Httpd server)](https://github.com/paulAlexSerban/tpl--nginx-proxy--httpd-server)
