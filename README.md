@@ -4,6 +4,7 @@
 
 ## Server Templates
 - [Nginx Server](https://github.com/paulAlexSerban/tpl--nginx-server)
+- [Traefik Server](https://github.com/paulAlexSerban/tpl--traefik-server)
 
 ## Project Templates
 - Reverse Proxy - Web Server 
