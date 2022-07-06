@@ -6,7 +6,7 @@
 - [Nginx Server](https://github.com/paulAlexSerban/tpl--nginx-server)
 - [Traefik Server](https://github.com/paulAlexSerban/tpl--traefik-server)
 
-## Project Templates
+## Proxy to Server Templates (P2S)
 - Reverse Proxy - Web Server 
   - [Traefik proxy & Nginx server](https://github.com/paulAlexSerban/pbanf-tpl--traefik-proxy--nginx-server)
   - [Nginx proxy & Httpd server)](https://github.com/paulAlexSerban/tpl--nginx-proxy--httpd-server)
