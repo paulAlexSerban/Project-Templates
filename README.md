@@ -12,6 +12,9 @@
 - Reverse Proxy - Web Server 
   - [Traefik proxy & Nginx server](https://github.com/paulAlexSerban/pbanf-tpl--traefik-proxy--nginx-server)
   - [Nginx proxy & Httpd server)](https://github.com/paulAlexSerban/tpl--nginx-proxy--httpd-server)
+  
+## Dependency Templates
+- [Living Style Guide](https://github.com/paulAlexSerban/tpl--living-style-guide)
 
 <!--
 - [ExpressJS (NodeJS v14)](https://github.com/paulAlexSerban/template-nodejs-14)
