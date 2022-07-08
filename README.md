@@ -2,19 +2,59 @@
 
 - [Portfolio Template](https://github.com/paulAlexSerban/project-boilerplate-archetype-n-framework)
 
-## Proxy Templates
+## Tech Stacks
+- [LAMP]
+- [NMP]
+- [MERN]
+- [MEAN]
+- [MEVN]
+
+## Content Management Systems
+- [Wordpress]()
+
+## Client Side Rendering(CSR)
+- [ReactJS]()
+
+## Server to Database
+- [Php - SQL]
+- [ExpressJS - MongoDB]
+- [ExpressJS - SQL]
+
+## Server Side Rendering (SSR)
+- [Php]()
+- [ExpressJS - Ejs]()
+- [NextJS - Jsx]()
+
+## Jamstack - Static Site Generator
+- [Jekyll]()
+- [Eleventy]()
+- [Hugo]()
+- [Pelican]()
+
+## Style Guides
+- [Storybook - FE Style Guide]()
+
+## UI Libraries
+- [Living Style Guide](https://github.com/paulAlexSerban/tpl--living-style-guide)
+- [JS Component Library]()
+
+## Revrese Proxy to Server (RP2S)
+- [Traefik proxy & Nginx server](https://github.com/paulAlexSerban/pbanf-tpl--traefik-proxy--nginx-server)
+- [Nginx proxy & Httpd server)](https://github.com/paulAlexSerban/tpl--nginx-proxy--httpd-server)
+
+## Reverse-Proxy
 - [Traefik Proxy](https://github.com/paulAlexSerban/tpl--traefik-proxy)
 
-## Server Templates
-- [Nginx Server](https://github.com/paulAlexSerban/tpl--nginx-server)
+## Database
+- [Redis]
+- [Mongoose]
+- [MongoDB]
+- [PhpMyAdmin]
+- [PostgresSql]
+- [SQL]
 
-## Proxy to Server Templates (P2S)
-- Reverse Proxy - Web Server 
-  - [Traefik proxy & Nginx server](https://github.com/paulAlexSerban/pbanf-tpl--traefik-proxy--nginx-server)
-  - [Nginx proxy & Httpd server)](https://github.com/paulAlexSerban/tpl--nginx-proxy--httpd-server)
-  
-## Dependency Templates
-- [Living Style Guide](https://github.com/paulAlexSerban/tpl--living-style-guide)
+## Server
+- [Nginx Server](https://github.com/paulAlexSerban/tpl--nginx-server)
 
 <!--
 - [ExpressJS (NodeJS v14)](https://github.com/paulAlexSerban/template-nodejs-14)
@@ -22,11 +62,4 @@
 - [ExpressJS - EJS (NodeJS v14)](https://github.com/paulAlexSerban/ejs-template)
 - [Style Guide Template](https://github.com/paulAlexSerban/style-guide-template)
 
-<!--
-## To Do's:
-- LAMP Project Template
-- Wordpress Project Template
-- NMP Proejct Template
-- MERN Project Template
-- MEAN Proejct Template
-- MEVN Project Template
+
