@@ -37,7 +37,7 @@
 -->
 ## UI Libraries
 - [Living Style Guide](https://github.com/paulAlexSerban/tpl--living-style-guide)
-- JS Component Library
+- [JS Component Library}](https://github.com/paulAlexSerban/tpl--js-component-library)
 
 ## Revrese Proxy to Server (RP2S)
 - [Traefik to Nginx](https://github.com/paulAlexSerban/pbanf-tpl--traefik-proxy--nginx-server)
