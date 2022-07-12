@@ -40,7 +40,7 @@
 - [JS Component Library}](https://github.com/paulAlexSerban/tpl--js-component-library)
 
 ## Revrese Proxy to Server (RP2S)
-- [Traefik to Nginx](https://github.com/paulAlexSerban/pbanf-tpl--traefik-proxy--nginx-server)
+- [Traefik to Nginx](https://github.com/paulAlexSerban/tpl--traefik-proxy--nginx-server)
 - [Nginx to Httpd)](https://github.com/paulAlexSerban/tpl--nginx-proxy--httpd-server)
 
 ## Reverse-Proxy
