@@ -1,6 +1,7 @@
 # Templates
 
 - [Portfolio Template](https://github.com/paulAlexSerban/project-boilerplate-archetype-n-framework)
+- [Static Website](https://github.com/paulAlexSerban/tpl--static-website)
 
 <!--
 ## Tech Stacks
