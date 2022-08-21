@@ -42,7 +42,7 @@
 
 ## Revrese Proxy to Server (RP2S)
 - [Traefik to Nginx](https://github.com/paulAlexSerban/tpl--traefik-proxy--nginx-server)
-- [Nginx to Httpd)](https://github.com/paulAlexSerban/tpl--nginx-proxy--httpd-server)
+- [Nginx to Httpd](https://github.com/paulAlexSerban/tpl--nginx-proxy--httpd-server)
 
 ## Reverse-Proxy
 - [Traefik](https://github.com/paulAlexSerban/tpl--traefik-proxy)
