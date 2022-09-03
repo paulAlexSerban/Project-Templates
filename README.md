@@ -3,7 +3,7 @@
 <!-- - [Portfolio Template](https://github.com/paulAlexSerban/project-boilerplate-archetype-n-framework) -->
 - [Static Website](https://github.com/paulAlexSerban/tpl--static-website)
 
-<!--
+
 ## Tech Stacks
 - LAMP
 - NMP
@@ -29,13 +29,13 @@
 
 ## Jamstack - Static Site Generator
 - Jekyll
-- Eleventy
+- [Eleventy](https://github.com/paulAlexSerban/tpl--jamstack-eleventy)
 - Hugo
 - Pelican
 
 ## Style Guides
 - Storybook - FE Style Guide
--->
+
 ## UI Libraries
 - [Living Style Guide](https://github.com/paulAlexSerban/tpl--living-style-guide)
 - [JS Component Library](https://github.com/paulAlexSerban/tpl--js-component-library)
