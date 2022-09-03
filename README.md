@@ -28,7 +28,7 @@
 - NextJS - Jsx
 
 ## Jamstack - Static Site Generator
-- Jekyll
+- [Jekyll](https://github.com/paulAlexSerban/tpl--jamstack-jekyll)
 - [Eleventy](https://github.com/paulAlexSerban/tpl--jamstack-eleventy)
 - Hugo
 - Pelican
