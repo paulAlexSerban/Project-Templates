@@ -34,7 +34,7 @@
 - Pelican
 
 ## Style Guides
-- Storybook - FE Style Guide
+- [Storybook - FE Style Guide](https://github.com/paulAlexSerban/tpl--fe-style-guide-storybook)
 
 ## UI Libraries
 - [Living Style Guide](https://github.com/paulAlexSerban/tpl--living-style-guide)
