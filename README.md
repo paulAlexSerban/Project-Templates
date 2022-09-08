@@ -85,3 +85,4 @@
 - [Style Guide Template](https://github.com/paulAlexSerban/style-guide-template)
 -->
 
+## [Vanilla Template)(https://github.com/paulAlexSerban/tpl--clean-boilerplate)
