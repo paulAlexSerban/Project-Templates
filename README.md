@@ -29,6 +29,7 @@
 -->
 
 ## Jamstack - Static Site Generator
+- [Next.js - Tailwind](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg)
 - [Jekyll](https://github.com/paulAlexSerban/tpl--jamstack-jekyll)
 - [Eleventy](https://github.com/paulAlexSerban/tpl--jamstack-eleventy)
 
