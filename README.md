@@ -60,10 +60,7 @@
 ## Reverse-Proxy
 - [Traefik](https://github.com/paulAlexSerban/tpl--traefik-proxy)
 
-
 <!--
-- Nginx Reverse Proxy
-
 ## Server to Database
 - Php - SQL
 - NodeJS to MongoDB
