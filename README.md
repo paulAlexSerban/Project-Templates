@@ -74,7 +74,8 @@
 - SQL
 -->
 
-## Server
+## Services
+- [Flask Service](https://github.com/paulAlexSerban/tpl--flask-service)
 - [Node.js Service](https://github.com/paulAlexSerban/tpl--nodejs-service)
 - [Nginx Service](https://github.com/paulAlexSerban/tpl--nginx-service)
 
