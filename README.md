@@ -22,7 +22,8 @@
 
 
 ## Server Side Rendering (SSR)
-- [Next.js](https://github.com/paulAlexSerban/tpl--nextjs)
+- [Next.js - Strapi](https://github.com/paulAlexSerban/tpl--nextjs-strapi-ssr)
+- [Next.js - Vanilla](https://github.com/paulAlexSerban/tpl--nextjs)
 <!--
 - Php
 - ExpressJS - Ejs
