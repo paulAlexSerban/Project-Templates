@@ -15,11 +15,10 @@
 <!--
 ## Content Management Systems
 - Wordpress
-
-## Client Side Rendering(CSR)
-- ReactJS
 -->
 
+## Client Side Rendering(CSR)
+- [React.js](https://github.com/paulAlexSerban/tpl--reactjs)
 
 ## Server Side Rendering (SSR)
 - [Next.js - Strapi](https://github.com/paulAlexSerban/tpl--nextjs-strapi-ssr)
@@ -42,7 +41,7 @@
 ## Style Guides
 - [Storybook - FE Style Guide](https://github.com/paulAlexSerban/tpl--fe-style-guide-storybook)
 
-## UI Libraries
+## UI
 - [Living Style Guide](https://github.com/paulAlexSerban/tpl--living-style-guide)
 - [JS Component Library](https://github.com/paulAlexSerban/tpl--js-component-library)
 
