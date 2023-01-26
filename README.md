@@ -12,10 +12,9 @@
 - MEVN
 -->
 
-<!--
 ## Content Management Systems
-- Wordpress
--->
+<!-- - Wordpress -->
+- [Ghost CMS](https://github.com/paulAlexSerban/tpl--ghost-cms)
 
 ## Client Side Rendering(CSR)
 - [React.js](https://github.com/paulAlexSerban/tpl--reactjs)
