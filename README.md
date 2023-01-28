@@ -1,4 +1,10 @@
-# Templates
+# Modulize FexiWorks (MfW)
+
+Modulize FlexiWorks is a highly versatile and modular project structure framework that prioritizes flexibility and adaptability. By utilizing a modular component structure, developers can easily integrate and customize the framework to meet the unique needs of their web application. This powerful framework provides a robust set of independent, flexible, and modular tools and components that streamline the development process and allow for efficient and effective web application creation. With its focus on flexibility and modularity, Modulize FlexiWorks is designed to work well and empower developers to create dynamic and responsive web applications.
+
+## Modules
+
+## Templates (to be refactored in modules)
 
 <!-- - [Portfolio Template](https://github.com/paulAlexSerban/project-boilerplate-archetype-n-framework) -->
 - [Static Website](https://github.com/paulAlexSerban/tpl--static-website)
