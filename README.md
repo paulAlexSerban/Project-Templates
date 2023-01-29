@@ -5,6 +5,9 @@ Modulize FlexiWorks is a highly versatile and modular project structure framewor
 ## Modules
 1. [Boilerplate Starter Kit](https://github.com/paulAlexSerban/mod--boilerplate-starter-kit)
 
+### JAMStack
+1. [11ty Module](https://github.com/paulAlexSerban/mod--11ty)
+
 ## Templates (to be refactored in modules)
 
 <!-- - [Portfolio Template](https://github.com/paulAlexSerban/project-boilerplate-archetype-n-framework) -->
@@ -37,7 +40,6 @@ Modulize FlexiWorks is a highly versatile and modular project structure framewor
 ## Jamstack - Static Site Generator
 - [Next.js - Tailwind](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg)
 - [Jekyll](https://github.com/paulAlexSerban/tpl--jamstack-jekyll)
-- [Eleventy](https://github.com/paulAlexSerban/tpl--jamstack-eleventy)
 
 <!--
 - Hugo
