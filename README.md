@@ -6,7 +6,7 @@ Modulize FlexiWorks is a highly versatile and modular project structure framewor
 1. [Boilerplate Starter Kit](https://github.com/paulAlexSerban/mod--boilerplate-starter-kit)
 
 ### JAMStack
-1. [11ty Module](https://github.com/paulAlexSerban/mod--11ty)
+1. [Eleventy (11ty)](https://github.com/paulAlexSerban/mod--11ty)
 
 
 ---
