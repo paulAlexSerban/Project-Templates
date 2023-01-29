@@ -8,6 +8,8 @@ Modulize FlexiWorks is a highly versatile and modular project structure framewor
 ### JAMStack
 1. [11ty Module](https://github.com/paulAlexSerban/mod--11ty)
 
+
+---
 ## Templates (to be refactored in modules)
 
 <!-- - [Portfolio Template](https://github.com/paulAlexSerban/project-boilerplate-archetype-n-framework) -->
