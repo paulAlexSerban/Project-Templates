@@ -8,6 +8,9 @@ Modulize FlexiWorks is a highly versatile and modular project structure framewor
 ### JAMStack
 1. [Eleventy (11ty)](https://github.com/paulAlexSerban/mod--11ty)
 
+### Server Side Rendering
+1. [Next.js](https://github.com/paulAlexSerban/mod--nextjs)
+
 
 ---
 ## Templates (to be refactored in modules)
@@ -33,7 +36,7 @@ Modulize FlexiWorks is a highly versatile and modular project structure framewor
 
 ## Server Side Rendering (SSR)
 - [Next.js - Strapi](https://github.com/paulAlexSerban/tpl--nextjs-strapi-ssr)
-- [Next.js - Vanilla](https://github.com/paulAlexSerban/tpl--nextjs)
+
 <!--
 - Php
 - ExpressJS - Ejs
