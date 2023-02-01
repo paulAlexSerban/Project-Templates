@@ -43,7 +43,6 @@ Modulize FlexiWorks is a highly versatile and modular project structure framewor
 -->
 
 ## Jamstack - Static Site Generator
-- [Next.js - Tailwind](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg)
 - [Jekyll](https://github.com/paulAlexSerban/tpl--jamstack-jekyll)
 
 <!--
