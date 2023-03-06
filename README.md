@@ -1,6 +1,6 @@
-# Modulize FexiWorks (mfw)
+# Modulize Fexi-Works (mfw)
 
-Modulize FlexiWorks is a highly versatile and modular project structure framework that prioritizes flexibility and adaptability. By utilizing a modular component structure, developers can easily integrate and customize the framework to meet the unique needs of their web application. This powerful framework provides a robust set of independent, flexible, and modular tools and components that streamline the development process and allow for efficient and effective web application creation. With its focus on flexibility and modularity, Modulize FlexiWorks is designed to work well and empower developers to create dynamic and responsive web applications.
+Modulize Flexi-Works is a highly versatile and modular project structure framework that prioritizes flexibility and adaptability. By utilizing a modular component structure, developers can easily integrate and customize the framework to meet the unique needs of their web application. This powerful framework provides a robust set of independent, flexible, and modular tools and components that streamline the development process and allow for efficient and effective web application creation. With its focus on flexibility and modularity, Modulize FlexiWorks is designed to work well and empower developers to create dynamic and responsive web applications.
 
 ## Modules
 1. [Boilerplate Starter Kit](https://github.com/paulAlexSerban/mod--boilerplate-starter-kit)
