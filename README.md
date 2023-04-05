@@ -54,7 +54,7 @@ Modulize is a highly versatile and modular project structure framework that prio
 
 
 ## Tech Stacks
-- MERN
+- [MERN - MongoBD, express, React.js, Node.js](https://github.com/paulAlexSerban/tpl--mern)
 
 <!--
 - LAMP
