@@ -52,11 +52,13 @@ Modulize is a highly versatile and modular project structure framework that prio
 
 <!-- - [Portfolio Template](https://github.com/paulAlexSerban/project-boilerplate-archetype-n-framework) -->
 
-<!--
+
 ## Tech Stacks
+- MERN
+
+<!--
 - LAMP
 - NMP
-- MERN
 - MEAN
 - MEVN
 -->
