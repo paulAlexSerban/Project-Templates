@@ -129,6 +129,9 @@ To use Modulize, run the script with the following options:
 -   Performance optimizations for faster task execution.
 -   Enhanced modularity and code organization for better maintainability.
 
+## Modules
+- [Installation & Boilerplate Starter Kit](https://github.com/paulAlexSerban/mod--boilerplate-starter-kit)
+
 ## Templates
 - [Static Website](https://github.com/paulAlexSerban/tpl--static-website)
 
@@ -173,10 +176,6 @@ To use Modulize, run the script with the following options:
 
 ### Web Servers
 - [Nginx Service](https://github.com/paulAlexSerban/tpl--nginx-service)
-
-
-## Modules
-1. [Boilerplate Starter Kit](https://github.com/paulAlexSerban/mod--boilerplate-starter-kit)
 
 [Portfolio Template](https://github.com/paulAlexSerban/project-boilerplate-archetype-n-framework)
 
