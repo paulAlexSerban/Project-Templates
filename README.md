@@ -130,7 +130,7 @@ To use Modulize, run the script with the following options:
 -   Enhanced modularity and code organization for better maintainability.
 
 ## Modules
-- [Installation & Boilerplate Starter Kit](https://github.com/paulAlexSerban/mod--boilerplate-starter-kit)
+- [Example & Boilerplate Starter Kit](https://github.com/paulAlexSerban/mod--boilerplate-starter-kit)
 
 ## Templates
 - [Static Website](https://github.com/paulAlexSerban/tpl--static-website)
