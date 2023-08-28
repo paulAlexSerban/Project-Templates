@@ -1,20 +1,17 @@
 const express = require('express');
 const todoRoutes = require('./routes/todo.routes');
-const app = express();
+const connectDatabase = require('./config/database');
 
+
+const app = express();
 app.use(express.json());
+
+connectDatabase();
 
 app.use('/todos', todoRoutes.router);
 
-app.get('/', (req, res) => {
-    res.json('Hello World');
-});
-
-const PORT = process.env.PORT || 3000;
-const HOSTNAME = process.env.HOSTNAME || "localhost";
-
-const server = app.listen(PORT, HOSTNAME, () => {
-  console.log(`Listen to requests on http://${HOSTNAME}:${PORT}`);
+app.use((error, req, res, next) => {
+    res.status(500).json({ message: error.message });
 });
 
 module.exports = app;

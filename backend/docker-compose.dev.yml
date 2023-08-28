@@ -45,7 +45,7 @@ services:
             - ./todo-tdd:/usr/src/app/
             - /usr/src/app/node_modules
         ports:
-            - $TEST_API_PORT:$NODE_DOCKER_PORT
+            - $TEST_API_PORT:$TEST_API_PORT
         depends_on:
             - mongo-service
         environment:
@@ -57,8 +57,8 @@ services:
             - MONGO_DB=${MONGO_DB}
             - GEOCODER_PROVIDER=${GEOCODER_PROVIDER}
             - GEOCODER_API_KEY=${GEOCODER_API_KEY}
-            - NODE_ENV=${NODE_ENV}
-            - API_PORT=${API_PORT}
+            - NODE_ENV=test
+            - API_PORT=${TEST_API_PORT}
 
     # ---------------------------------------------------------------------
     # | MongoDB Database Server                                            |
