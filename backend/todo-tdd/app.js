@@ -10,8 +10,11 @@ app.get('/', (req, res) => {
     res.json('Hello World');
 });
 
-app.listen(3000, () => {
-    console.log('Server is running on port 3000');
+const PORT = process.env.PORT || 3000;
+const HOSTNAME = process.env.HOSTNAME || "localhost";
+
+const server = app.listen(PORT, HOSTNAME, () => {
+  console.log(`Listen to requests on http://${HOSTNAME}:${PORT}`);
 });
 
 module.exports = app;

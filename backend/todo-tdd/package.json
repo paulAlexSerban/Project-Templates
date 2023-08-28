@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "jest --watchAll",
+        "test": "export PORT=0 && jest --watchAll --verbose",
         "start": "node app.js",
         "watch": "nodemon app.js"
     },
