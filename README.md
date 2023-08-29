@@ -2,23 +2,36 @@
 
 ## Introduction
 
-This workbook is designed to be used alongside the Test Driven Development courses. It contains a series of exercises to help you practice the skills you are learning in the course.
+Welcome to the TDD Workbook, a collection of mini-projects aimed to serve as a practical guide for those learning or practicing Test Driven Development (TDD) in JavaScript. Whether you're new to TDD or are looking to solidify your skills, these exercises offer a hands-on approach to understanding the key concepts.
 
-Test-driven development, or TDD, is a fairly common style of programming in the workplace, and, in many instances, is mandatory for certain projects. Luckily, TDD is pretty straightforward when you understand the fundamentals behind the process.
+TDD is not just a coding methodology but also a strategy for writing software that is robust, maintainable, and bug-resistant. It is often considered a necessary approach for various professional development projects. This workbook aims to make the learning process easy and straightforward.
 
-## Projects
+## Projects Included
 
--   [ToDo List API w. TDD](/backedn/todo-tdd/readme.md)
-    -   Setup in Docker Compose with Node, Express, MongoDB
-    -   Unit Testing and Integration Testing with Jest, Manual Testing with Postman
-    -   Test Driven Development (TDD)
-    -   To start the project run `bash modulize.bash -e dev -p compose-start``
--   [ToDo List App - MVC & TDD](/frontend/todo-list-app/readme.md)
-    -   Unit Testing of MVC Presentational pattern with Jasmine, Test Driven Development (TDD)
-    -   To view the project go into `frontend/todo-list-app--mvc-jasmine` and check the index.html file
--   [Node Backend Testing](/backend/node-backend-testing/)
-    -   Unit Testing of Node Backend with Node Test Runner, Test Driven Development (TDD)
-    -   To start the tests suit run `npm run tests` in the project directory
--   [Jest Backend Testing](/backend/jest-backend-testing/)
-    -   Unit Testing of Node Backend with Jest, Test Driven Development (TDD)
-    -   To start the tests suit run `npm run tests` in the project directory
+### 1. ToDo List API with TDD
+
+-   **Tech Stack**: Node, Express, MongoDB, Docker Compose
+-   **Testing Tools**: Unit and Integration Testing with Jest, Manual Testing with Postman
+-   **Instructions**: To run this project, execute bash modulize.bash -e dev -p compose-start
+-   **Directory**: `/backend/todo-list-api`
+
+### 2. ToDo List App - MVC & TDD
+
+-   **Tech Stack**: Vanilla JavaScript
+-   **Testing Tools**: Jasmine for Unit Testing
+-   **Instructions**: Navigate to frontend/todo-list-app--mvc-jasmine and open index.html in your web browser.
+-   **Directory**: `/frontend/todo-list-app--mvc-jasmine`
+
+### 3. Node Backend Testing
+
+-   **Tech Stack**: Node.js
+-   **Testing Tools**: Node Test Runner
+-   **Instructions**: To run the test suite, navigate to the project **directory** and execute npm run tests
+-   **Directory**: `/backend/node-backend-testing`
+
+### 4. Jest Backend Testing
+
+-   **Tech Stack**: Node.js
+-   **Testing Tools**: Jest for Unit Testing
+-   **Instructions**: To run the test suite, navigate to the project **directory** and execute npm run tests
+-   **Directory**: `/backend/jest-backend-testing`
