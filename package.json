@@ -1,31 +1,35 @@
 {
     "name": "wbk--test-driven-development-javascript",
-    "version": "1.0.0",
-    "description": "## Introduction",
-    "main": "index.js",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/paulAlexSerban/wbk--test-driven-development-javascript.git"
-    },
-    "bugs": {
-        "url": "https://github.com/paulAlexSerban/wbk--test-driven-development-javascript/issues"
-    },
-    "homepage": "https://github.com/paulAlexSerban/wbk--test-driven-development-javascript#readme",
+    "version": "0.1.0",
+    "description": "",
+    "author": "Paul Serban",
     "scripts": {
         "test": "echo 'Error: no test specified'",
         "lint": "echo 'Error: no lint specified'",
-        "install:ci": "npm ci --omit=dev --ignore-scripts",
-        "install:root": "npm install",
-        "formats:check": "npx prettier --check .",
-        "formats:write": "npx prettier --write ."
+        "formats:check": "yarn prettier --check .",
+        "formats:write": "yarn prettier --write ."
     },
-    "author": "Paul Serban",
-    "license": "ISC",
     "devDependencies": {
         "prettier": "^2.7.1"
     },
+    "dependencies": {
+        "lerna": "^7.3.0"
+    },
     "engines": {
-        "node": "16.19.0",
-        "npm": "8.19.3"
-    }
+        "node": "18.17.1",
+        "npm": "9.6.7", 
+        "yarn": "1.22.19"
+    },
+    "workspaces": {
+        "packages": [
+            "assets/*",
+            "backend/*",
+            "frontend/*"
+        ],
+        "nohoist": [
+            "**/normalize-scss"
+        ]
+    },
+    "private": true,
+    "license": "MIT"
 }

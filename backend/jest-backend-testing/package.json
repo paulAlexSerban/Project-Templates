@@ -1,5 +1,5 @@
 {
-    "name": "jest-backend-testing",
+    "name": "@wbk--test-driven-development-javascript/jest-backend-testing",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
